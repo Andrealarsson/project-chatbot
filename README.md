@@ -1,13 +1,9 @@
-# Project Name
+Bootstrap Bakery
 
-Replace this readme with your own information about your project.
+The assignment: build a simple chatbot.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+We decided to keep it quite simple since we are beginners at JavaScript. We thought that a food ordering bot with just a few options would be a good choice for us. We got some help from our team when we had trouble getting the bot conversation started, besides that we re-watched the code sessions and did a lot of googling. We also used Beautify to make our code look tidy.
 
-## The problem
+If we had more time we would play around with the styling and add some sound effects to the chat.
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
-
-## View it live
-
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+/Andrea & Caroline
