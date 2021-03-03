@@ -7,3 +7,6 @@ We decided to keep it quite simple since we are beginners at JavaScript. We thou
 If we had more time we would play around with the styling and add some sound effects to the chat.
 
 /Andrea & Caroline
+
+View it live:
+https://jolly-jackson-88b37c.netlify.app
